@@ -18,6 +18,7 @@ This is a simple "Hello World" project with the environment configuration with W
 | npm i --save-dev react |
 | npm i --save-dev react-dom |
 | npm i --save-dev babel-preset-react |
+| npm i --save-dev babel-plugin-transform-object-rest-spread |
 
 #### WebPack
 
