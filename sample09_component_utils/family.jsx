@@ -1,5 +1,5 @@
 import React from 'react'
-import { listWithProps } from '../service/reactServices'
+import { listWithProps } from '../utils/reactUtils'
 
 export default props => (
   <div>
